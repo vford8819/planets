@@ -1,6 +1,10 @@
-this is a hardy
+this is a conflict
 
 Header
 Venus is a bother as a base for you and you friends. 
 The mummy is wrapped up.
 Cold and Dry, but all is red in color. Two moon
+=======
+Cold and Dry, but all is red in color.
+This is a change.
+>>>>>>> 4e606b3ef2ac25756e11cd0ac449eb5db7bf3abf
